@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elastique Lymphatic Wellness Assistant MVP - Scope of Work & Services Agreement</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: white;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 60px 40px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
+            letter-spacing: 0.5px;
+        }
+
+        .header p {
+            font-size: 13px;
+            color: #666;
+            font-style: italic;
+        }
+
+        h2 {
+            font-size: 14px;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        h3 {
+            font-size: 12px;
+            font-weight: 600;
+            color: #34495e;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 12px;
+            margin-bottom: 12px;
+            text-align: justify;
+            line-height: 1.7;
+        }
+
+        ul, ol {
+            font-size: 12px;
+            margin-left: 25px;
+            margin-bottom: 12px;
+            line-height: 1.7;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .subsection {
+            margin-left: 0;
+            margin-bottom: 15px;
+        }
+
+        .signature-section {
+            margin-top: 50px;
+            page-break-inside: avoid;
+        }
+
+        .signature-block {
+            display: inline-block;
+            width: 45%;
+            margin-right: 5%;
+            margin-bottom: 40px;
+            vertical-align: top;
+        }
+
+        .signature-block:last-child {
+            margin-right: 0;
+        }
+
+        .signature-line {
+            border-bottom: 1px solid #333;
+            margin-bottom: 5px;
+        }
+
+        .signature-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .field {
+            margin-bottom: 20px;
+        }
+
+        .field-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: #666;
+            display: inline-block;
+            width: 80px;
+        }
+
+        .field-line {
+            border-bottom: 1px solid #333;
+            display: inline-block;
+            width: calc(100% - 90px);
+            height: 20px;
+            vertical-align: bottom;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 2px solid #2c3e50;
+            font-size: 11px;
+            color: #999;
+        }
+
+        strong {
+            font-weight: 600;
+        }
+
+        .intro-line {
+            font-size: 12px;
+            margin-bottom: 20px;
+            line-height: 1.8;
+        }
+
+        @media print {
+            body {
+                padding: 0;
+                background: white;
+            }
+            .container {
+                box-shadow: none;
+                padding: 50px 40px;
+                max-width: 100%;
+            }
+            a {
+                text-decoration: none;
+                color: #333;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>ELASTIQUE LYMPHATIC WELLNESS ASSISTANT MVP</h1>
+            <p>Scope of Work & Services Agreement</p>
+        </div>
+
+        <p class="intro-line">
+            This Scope of Work & Services Agreement ("Agreement") is entered into as of <strong>__________</strong> ("Effective Date")
+            by and between <strong>Elastique Athletics</strong> ("Client") and <strong>__________________</strong> ("Contractor").
+            Collectively, the parties agree as follows:
+        </p>
+
+        <div class="section">
+            <h2>1. Project Overview</h2>
+            <p>
+                Contractor will deliver an AI-powered conversational guide on the Elastique website that serves as the world's
+                most informed, medically aligned, and empathetic lymphatic health assistant—always on-brand for Elastique. The
+                assistant engages visitors in natural dialogue, educates on lymphatic health and its ties to hydration, nutrition,
+                movement, and massage, connects user goals to Elastique's product ecosystem without referencing competitors,
+                reinforces safety disclaimers, and defers or escalates whenever information falls outside the approved corpus.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>2. Objectives</h2>
+            <ul>
+                <li>Provide a secure, ungated chat experience accessible to all Elastique website visitors.</li>
+                <li>Restrict knowledge, tone, disclaimers, referrals, and escalation logic to Elastique-supplied, medically certified materials and leadership-approved brand guidance.</li>
+                <li>Encourage positive wellness actions while naturally highlighting Elastique products.</li>
+                <li>Maintain session context within each live conversation without retaining cross-session data.</li>
+                <li>Ensure conversations can produce: (1) protocols grounded in lymphatic best practices, (2) Elastique product recommendations for lymph movement maintenance, (3) referrals via the supplied therapist library (with fuzzy matching if zip/city is missing), and/or (4) offers to schedule consultations with an Elastique Success Manager.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>3. Key Features (MVP)</h2>
+            <ul>
+                <li>Approved-content-driven flows covering lymphatic fundamentals, hydration, nutrition, movement, massage, and garment compression benefits.</li>
+                <li>Brand personality co-developed with CEO, COO, and Head of Marketing, enforced via guardrails embedding Elastique-provided disclaimers, escalation scripts, and competitor filters.</li>
+                <li>Session-scoped memory for contextual personalization.</li>
+                <li>Native analytics (conversation totals, contact capture/completion, attribution tags, sentiment flags) in the standard reporting dashboard.</li>
+                <li>Revenue attribution tagging via native tags.</li>
+                <li>Referral logic using Elastique's therapist directory with fuzzy fallback plus scripted Success Manager consultation offers.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>4. Deliverables (Two-Week Sprint; Sequential Execution)</h2>
+
+            <h3>4.1 Discovery & Design</h3>
+            <p>
+                Conversation framework, empathy cues, referral/consultation logic, escalation triggers, tone/personality guide,
+                and content dataset specification (documents, disclaimers, therapist directory, Success Manager scripts, sourcing
+                notes, refresh cadence).
+            </p>
+
+            <h3>4.2 Development</h3>
+            <p>
+                Branded chat UX on the Elastique website; AI orchestration service consuming the approved corpus, honoring session
+                memory, performing referral lookups, and handling consultation offers; guardrail implementation for disclaimers/
+                escalations/competitor filtering/defer-to-human logic; configuration of native attribution tags.
+            </p>
+
+            <h3>4.3 Testing & Review</h3>
+            <p>
+                Functional, tone, referral, and guardrail testing; medical/legal validation documenting "not covered" topics;
+                brand approval with CEO, COO, and Head of Marketing.
+            </p>
+
+            <h3>4.4 Deployment & Stabilization</h3>
+            <p>
+                Production launch on the Elastique website and a post-launch observation window with rapid, pre-approved copy
+                tweaks plus a documented path for future enhancements.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>5. Out-of-Scope (MVP)</h2>
+            <ul>
+                <li>Multilingual experiences or alternate personas.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>6. Roles & Responsibilities</h2>
+
+            <h3>6.1 Client</h3>
+            <p>
+                Provide brand guidelines, approved medical content, disclaimers, therapist directory, Success Manager scripts,
+                SME access, and timely approvals; maintain accuracy and refresh cadence of supplied materials.
+            </p>
+
+            <h3>6.2 Contractor</h3>
+            <p>
+                Deliver conversation design, UX, orchestration, guardrails, referral logic, documentation, and post-launch
+                stabilization within this scope while meeting brand, privacy, and ethical AI standards.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>7. Change Management</h2>
+            <ul>
+                <li>All changes to scope, deliverables, success metrics, or timeline must be requested in writing.</li>
+                <li>Contractor will issue an impact assessment detailing effort, schedule, and cost.</li>
+                <li>Changes take effect only after both parties execute a written change order referencing this Agreement.</li>
+                <li>Approved change orders may adjust the sprint timeline and/or fees.</li>
+                <li>Ongoing model retraining or content expansion is governed by change orders billed at a discounted $45/hour rate, complementing the standing 5% attributable-revenue share.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>8. Timeline & Success Metrics</h2>
+
+            <h3>8.1 Timeline</h3>
+            <p>Single two-week sprint executing the deliverables in Section 4.</p>
+
+            <h3>8.2 Success Metrics</h3>
+            <ul>
+                <li>≥95% adherence to approved content (manual audits)</li>
+                <li>≥90% positive sentiment from native chatbot feedback sampling</li>
+                <li>≥10% lift in engagement/conversion for tagged users versus baseline</li>
+                <li>Zero issues relative to the supplied dataset, with the assistant deferring whenever content or disclaimers are absent</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>9. Financial Terms</h2>
+            <ul>
+                <li><strong>Upfront Development Fee:</strong> $2,000 due at signature to commence the sprint.</li>
+                <li><strong>Ongoing Chat Agent Subscription:</strong> $197 per month per AI chat (not voice agent), billed monthly, including unlimited AI agent minutes and conversation AI messages.</li>
+                <li><strong>Performance Compensation:</strong> 5% of attributable revenue from customers who engaged the AI within 30 days prior to a purchase, payable while the platform remains active.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>10. Term & Termination</h2>
+            <ul>
+                <li>Term begins on the Effective Date and continues through completion of the MVP sprint, including the post-launch observation window, unless earlier terminated in accordance with this Agreement.</li>
+                <li>Either party may terminate for material breach if such breach remains uncured for ten (10) days after written notice.</li>
+                <li>Upon termination, Client shall pay Contractor for all work performed and expenses incurred through the termination date, including any non-cancelable commitments.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>11. Confidentiality & Intellectual Property</h2>
+            <ul>
+                <li>Each party shall protect the other's confidential information with at least the same degree of care it uses for its own confidential information.</li>
+                <li>Contractor retains ownership of pre-existing IP and reusable frameworks. Client receives a perpetual, non-transferable license to use deliverables within its business. Newly created content specific to Elastique's brand and materials becomes Client property upon full payment.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>12. Limitation of Liability and Indemnification</h2>
+            <ul>
+                <li>Except for breaches of confidentiality or indemnity obligations, neither party shall be liable for indirect, incidental, consequential, special, exemplary, or punitive damages arising from this Agreement.</li>
+                <li>Each party ("Indemnifying Party") shall defend, indemnify, and hold harmless the other party and its officers, directors, employees, and agents ("Indemnified Party") from any third-party claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to (a) the Indemnifying Party's breach of this Agreement, (b) its gross negligence or willful misconduct, or (c) its violation of applicable law.</li>
+                <li>Contractor's aggregate liability to Client, including indemnity obligations, shall not exceed the total fees paid under this Agreement; Client's aggregate liability to Contractor shall not exceed the greater of the fees paid or payable under this Agreement or $25,000. These caps do not apply to obligations arising from indemnity or confidentiality breaches.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>13. Governing Law</h2>
+            <p>
+                This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia, without
+                regard to its conflict-of-law principles.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>14. Entire Agreement</h2>
+            <p>
+                This Agreement constitutes the entire understanding between the parties regarding the subject matter and supersedes
+                all prior proposals, negotiations, or communications. Any modification must be in writing and signed by both parties.
+            </p>
+        </div>
+
+        <div class="signature-section">
+            <h2>15. Signatures</h2>
+
+            <div class="signature-block">
+                <div class="signature-label">CLIENT: Elastique Athletics</div>
+
+                <div class="field">
+                    <span class="field-label">Name:</span>
+                    <div class="field-line"></div>
+                </div>
+
+                <div class="field">
+                    <span class="field-label">Title:</span>
+                    <div class="field-line"></div>
+                </div>
+
+                <div class="field">
+                    <span class="field-label">Signature:</span>
+                    <div class="field-line"></div>
+                </div>
+
+                <div class="field">
+                    <span class="field-label">Date:</span>
+                    <div class="field-line"></div>
+                </div>
+            </div>
+
+            <div class="signature-block">
+                <div class="signature-label">CONTRACTOR: __________________________</div>
+
+                <div class="field">
+                    <span class="field-label">Name:</span>
+                    <div class="field-line"></div>
+                </div>
+
+                <div class="field">
+                    <span class="field-label">Title:</span>
+                    <div class="field-line"></div>
+                </div>
+
+                <div class="field">
+                    <span class="field-label">Signature:</span>
+                    <div class="field-line"></div>
+                </div>
+
+                <div class="field">
+                    <span class="field-label">Date:</span>
+                    <div class="field-line"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>ELASTIQUE LYMPHATIC WELLNESS ASSISTANT MVP | Scope of Work & Services Agreement</p>
+            <p>© 2024 Elastique Athletics. All Rights Reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
