@@ -6,9 +6,35 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git branch:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(python ghl_catalog_parser.py:*)",
+      "Bash(pip install:*)"
     ],
     "deny": [],
     "ask": []
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"c:\\Homebrew Apps\\Elastique - GPT_chatbot\" && git add -A && git commit -m \"auto: code changes\" && git push origin main 2>/dev/null || true",
+            "statusMessage": "Auto-committing changes to Git..."
+          }
+        ]
+      },
+      {
+        "matcher": "Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"c:\\Homebrew Apps\\Elastique - GPT_chatbot\" && git add -A && git commit -m \"auto: code changes\" && git push origin main 2>/dev/null || true",
+            "statusMessage": "Auto-committing changes to Git..."
+          }
+        ]
+      }
+    ]
   }
 }
