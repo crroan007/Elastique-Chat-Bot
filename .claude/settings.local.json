@@ -8,7 +8,8 @@
       "Bash(git branch:*)",
       "Bash(git push:*)",
       "Bash(python ghl_catalog_parser.py:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(python -m json.tool:*)"
     ],
     "deny": [],
     "ask": []
