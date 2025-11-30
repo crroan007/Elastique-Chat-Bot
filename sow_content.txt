@@ -1,0 +1,81 @@
+ELASTIQUE LYMPHATIC WELLNESS ASSISTANT MVP
+Scope of Work & Services Agreement
+This Scope of Work & Services Agreement ("Agreement") is entered into as of __________ ("Effective Date") by and between Elastique Athletics ("Client") and __________________ ("Contractor"). Collectively, the parties agree as follows:
+1. Project Overview
+Contractor will deliver an AI-powered conversational guide on the Elastique website that serves as the world's most informed, medically aligned, and empathetic lymphatic health assistant—always on-brand for Elastique. The assistant engages visitors in natural dialogue, educates on lymphatic health and its ties to hydration, nutrition, movement, and massage, connects user goals to Elastique's product ecosystem without referencing competitors, reinforces safety disclaimers, and defers or escalates whenever information falls outside the approved corpus.
+2. Objectives
+Provide a secure, ungated chat experience accessible to all Elastique website visitors.
+Restrict knowledge, tone, disclaimers, referrals, and escalation logic to Elastique-supplied, medically certified materials and leadership-approved brand guidance.
+Encourage positive wellness actions while naturally highlighting Elastique products.
+Maintain session context within each live conversation without retaining cross-session data.
+Ensure conversations can produce: (1) protocols grounded in lymphatic best practices, (2) Elastique product recommendations for lymph movement maintenance, (3) referrals via the supplied therapist library (with fuzzy matching if zip/city is missing), and/or (4) offers to schedule consultations with an Elastique Success Manager.
+3. Key Features (MVP)
+Approved-content-driven flows covering lymphatic fundamentals, hydration, nutrition, movement, massage, and garment compression benefits.
+Brand personality co-developed with CEO, COO, and Head of Marketing, enforced via guardrails embedding Elastique-provided disclaimers, escalation scripts, and competitor filters.
+Session-scoped memory for contextual personalization.
+Native analytics (conversation totals, contact capture/completion, attribution tags, sentiment flags) in the standard reporting dashboard.
+Revenue attribution tagging via native tags.
+Referral logic using Elastique's therapist directory with fuzzy fallback plus scripted Success Manager consultation offers.
+4. Deliverables (Two-Week Sprint; Sequential Execution)
+4.1 Discovery & Design
+Conversation framework, empathy cues, referral/consultation logic, escalation triggers, tone/personality guide, and content dataset specification (documents, disclaimers, therapist directory, Success Manager scripts, sourcing notes, refresh cadence).
+4.2 Development
+Branded chat UX on the Elastique website; AI orchestration service consuming the approved corpus, honoring session memory, performing referral lookups, and handling consultation offers; guardrail implementation for disclaimers/ escalations/competitor filtering/defer-to-human logic; configuration of native attribution tags.
+4.3 Testing & Review
+Functional, tone, referral, and guardrail testing; medical/legal validation documenting "not covered" topics; brand approval with CEO, COO, and Head of Marketing.
+4.4 Deployment & Stabilization
+Production launch on the Elastique website and a post-launch observation window with rapid, pre-approved copy tweaks plus a documented path for future enhancements.
+5. Out-of-Scope (MVP)
+Multilingual experiences or alternate personas.
+6. Roles & Responsibilities
+6.1 Client
+Provide brand guidelines, approved medical content, disclaimers, therapist directory, Success Manager scripts, SME access, and timely approvals; maintain accuracy and refresh cadence of supplied materials.
+6.2 Contractor
+Deliver conversation design, UX, orchestration, guardrails, referral logic, documentation, and post-launch stabilization within this scope while meeting brand, privacy, and ethical AI standards.
+7. Change Management
+All changes to scope, deliverables, success metrics, or timeline must be requested in writing.
+Contractor will issue an impact assessment detailing effort, schedule, and cost.
+Changes take effect only after both parties execute a written change order referencing this Agreement.
+Approved change orders may adjust the sprint timeline and/or fees.
+Ongoing model retraining or content expansion is governed by change orders billed at a discounted $45/hour rate, complementing the standing 5% attributable-revenue share.
+8. Timeline & Success Metrics
+8.1 Timeline
+Single two-week sprint executing the deliverables in Section 4.
+8.2 Success Metrics
+≥95% adherence to approved content (manual audits)
+≥90% positive sentiment from native chatbot feedback sampling
+≥10% lift in engagement/conversion for tagged users versus baseline
+Zero issues relative to the supplied dataset, with the assistant deferring whenever content or disclaimers are absent
+9. Financial Terms
+Upfront Development Fee: $2,000 due at signature to commence the sprint.
+Ongoing Chat Agent Subscription: $197 per month per AI chat (not voice agent), billed monthly, including unlimited AI agent minutes and conversation AI messages.
+Performance Compensation: 5% of attributable revenue from customers who engaged the AI within 30 days prior to a purchase, payable while the platform remains active.
+10. Term & Termination
+Term begins on the Effective Date and continues through completion of the MVP sprint, including the post-launch observation window, unless earlier terminated in accordance with this Agreement.
+Either party may terminate for material breach if such breach remains uncured for ten (10) days after written notice.
+Upon termination, Client shall pay Contractor for all work performed and expenses incurred through the termination date, including any non-cancelable commitments.
+11. Confidentiality & Intellectual Property
+Each party shall protect the other's confidential information with at least the same degree of care it uses for its own confidential information.
+Contractor retains ownership of pre-existing IP and reusable frameworks. Client receives a perpetual, non-transferable license to use deliverables within its business. Newly created content specific to Elastique's brand and materials becomes Client property upon full payment.
+12. Limitation of Liability and Indemnification
+Except for breaches of confidentiality or indemnity obligations, neither party shall be liable for indirect, incidental, consequential, special, exemplary, or punitive damages arising from this Agreement.
+Each party ("Indemnifying Party") shall defend, indemnify, and hold harmless the other party and its officers, directors, employees, and agents ("Indemnified Party") from any third-party claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to (a) the Indemnifying Party's breach of this Agreement, (b) its gross negligence or willful misconduct, or (c) its violation of applicable law.
+Contractor's aggregate liability to Client, including indemnity obligations, shall not exceed the total fees paid under this Agreement; Client's aggregate liability to Contractor shall not exceed the greater of the fees paid or payable under this Agreement.
+13. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia, without regard to its conflict-of-law principles.
+14. Entire Agreement
+This Agreement constitutes the entire understanding between the parties regarding the subject matter and supersedes all prior proposals, negotiations, or communications. Any modification must be in writing and signed by both parties.
+15. Signatures
+CLIENT: Elastique Athletics
+Name: 
+Title: 
+Signature: 
+Date: 
+ 
+CONTRACTOR: __________________________
+Name: 
+Title: 
+Signature: 
+Date: 
+ELASTIQUE LYMPHATIC WELLNESS ASSISTANT MVP | Scope of Work & Services Agreement
+© 2024 Elastique Athletics. All Rights Reserved.

@@ -5,6 +5,12 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
 # Environment variables
 .env
 .env.local

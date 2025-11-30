@@ -281,7 +281,7 @@
   },
   {
     "format": "html",
-    "content": "\n<div class=\"ghl-product-tile\" style=\"border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; margin: 8px 0; max-width: 280px; background: #fff;\">\n    \n    <img src=\"https://cdn.shopify.com/s/files/1/1886/2193/files/original_leggings_and_bra_in_olive.jpg?v=1763365239\" alt=\"L'Original Leggings\" style=\"width: 100%; height: 280px; object-fit: cover; border-radius: 6px; margin-bottom: 12px;\">\n    <h3 style=\"margin: 12px 0 8px 0; font-size: 16px; font-weight: 600; color: #222;\">L'Original Leggings</h3>\n    <p style=\"margin: 8px 0; font-size: 13px; color: #666; line-height: 1.4;\">compression, MicroPerle</p>\n    <div style=\"margin: 12px 0;\">\n        <span style=\"font-size: 18px; font-weight: 700; color: #2c3e50;\">$235.00</span>\n        <span style=\"font-size: 13px; color: #999; text-decoration: line-through; margin-left: 8px;\">$235.00</span>\n    </div>\n    <div style=\"margin: 8px 0; font-size: 12px; color: #666;\">\n        Sizes: Multiple\n    </div>\n    <a href=\"https://www.elastiqueathletics.com/products/loriginal-leggings\" target=\"_blank\" style=\"display: inline-block; background: #2c3e50; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; font-weight: 600; margin-top: 12px;\">View Product</a>\n</div>\n",
+    "content": "\n<div class=\"ghl-product-tile\" style=\"border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; margin: 8px 0; max-width: 280px; background: #fff;\">\n    \n    <img src=\"https://cdn.shopify.com/s/files/1/1886/2193/files/original_leggings_and_bra_in_olive.jpg?v=1763365239\" alt=\"L'Original Leggings\" style=\"width: 100%; height: 280px; object-fit: cover; border-radius: 6px; margin-bottom: 12px;\">\n    <h3 style=\"margin: 12px 0 8px 0; font-size: 16px; font-weight: 600; color: #222;\">L'Original Leggings</h3>\n    <p style=\"margin: 8px 0; font-size: 13px; color: #666; line-height: 1.4;\">MicroPerle, compression</p>\n    <div style=\"margin: 12px 0;\">\n        <span style=\"font-size: 18px; font-weight: 700; color: #2c3e50;\">$235.00</span>\n        <span style=\"font-size: 13px; color: #999; text-decoration: line-through; margin-left: 8px;\">$235.00</span>\n    </div>\n    <div style=\"margin: 8px 0; font-size: 12px; color: #666;\">\n        Sizes: Multiple\n    </div>\n    <a href=\"https://www.elastiqueathletics.com/products/loriginal-leggings\" target=\"_blank\" style=\"display: inline-block; background: #2c3e50; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; font-weight: 600; margin-top: 12px;\">View Product</a>\n</div>\n",
     "product": {
       "title": "L'Original Leggings",
       "handle": "loriginal-leggings",
@@ -296,7 +296,7 @@
       "style": "Leggings",
       "available_colors": [],
       "available_sizes": [],
-      "benefits": "compression, MicroPerle"
+      "benefits": "MicroPerle, compression"
     }
   },
   {
