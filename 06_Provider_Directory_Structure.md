@@ -14,7 +14,7 @@ This file defines the structure of the **Internal Provider Table** used for geo-
 | **City** | City name | *Austin* |
 | **State** | State abbreviation | *TX* |
 | **ZIP** | 5-digit ZIP code | *78701* |
-| **Booking URL** | Direct link to booking calendar | *https://calendly.com/sarah-lymphatic* |
+| **Booking URL** | Direct link to booking calendar | *https://#* |
 | **Notes** | Special instructions or details | *Specializes in post-lipo fibrosis. Parking in back.* |
 
 ## Example CSV Format
@@ -22,7 +22,7 @@ This file defines the structure of the **Internal Provider Table** used for geo-
 ```csv
 Provider Name,Credentials,Modalities,Address,City,State,ZIP,Booking URL,Notes
 "Lymphatic Healing Center","LMT, CLT-LANA","MLD, Compression Fitting, Oncology","4500 Main St","Los Angeles","CA","90048","https://lhc.com/book","Insurance accepted for lymphedema"
-"Body Flow Studio","PT, DPT","Orthopedic, Sports Lymphatics","8800 Sunset Blvd","West Hollywood","CA","90069","https://bodyflow.com/schedule","Cash based only"
+"Body Flow Studio","PT, DPT","Orthopedic, Sports Lymphatics","8800 Sunset Blvd","West Hollywood","CA","90069","https://#","Cash based only"
 ```
 
 ## Bot Logic for Matching

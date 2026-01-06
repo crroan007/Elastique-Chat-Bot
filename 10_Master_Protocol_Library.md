@@ -54,7 +54,7 @@ Arm swelling can be uncomfortable, but compression therapy is clinically proven 
 
 **Recommended Solutions**
 For targeted arm support, we recommend:
-*   **[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-3-4-sleeve-top)** - Provides built-in arm compression to reduce heaviness and fatigue during workouts or daily wear.
+*   **[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-top)** - Provides built-in arm compression to reduce heaviness and fatigue during workouts or daily wear.
 
 **Your Daily Protocol**
 *   **Morning:** 10 large arm circles (forward and back) to open the axillary (armpit) nodes.
@@ -150,7 +150,7 @@ This is incredible: Research in *Aging Cell* shows that aerobic exercise actuall
 
 **Recommended Solutions**
 To support your cardio workouts, we recommend:
-*   **[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-3-4-sleeve-top)** - Built-in support and compression to reduce fatigue during cardio.
+*   **[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-top)** - Built-in support and compression to reduce fatigue during cardio.
 *   **[L'Original Flowy Short](https://www.elastiqueathletics.com/products/loriginal-flowy-short)** - Perfect for freedom of movement during walks or runs.
 
 **Your Daily Protocol**
@@ -325,7 +325,7 @@ Flying creates a "perfect storm" for swelling ("Economy Class Syndrome"). Studie
 Compression helps flush metabolic waste (lactate) from muscles. Research shows it reduces delayed onset muscle soreness (DOMS) and speeds up recovery.
 
 **Recommended Solutions**
-*   **[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-3-4-sleeve-top)** - Great for upper body recovery.
+*   **[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-top)** - Great for upper body recovery.
 *   **[L'Original Leggings](https://www.elastiqueathletics.com/products/loriginal-leggings)** - Wear these *after* your workout to accelerate drainage.
 
 **Your Daily Protocol**
@@ -362,7 +362,7 @@ Our patented **MicroPerle®** technology embeds tiny, hypoallergenic silicone be
 *   **The Feeling:** You might feel a light tingle initially—that means it's working!
 
 **Recommended Solutions**
-*   **[L'Original Collection](https://www.elastiqueathletics.com/collections/loriginal-collection)** - The full MicroPerle experience.
+*   **[L'Original Collection](https://www.elastiqueathletics.com/collections/loriginal)** - The full MicroPerle experience.
 
 ---
 

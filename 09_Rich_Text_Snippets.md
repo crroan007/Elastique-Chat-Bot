@@ -55,7 +55,7 @@ Swelling in both arms and legs suggests your whole system needs a little support
 Manual Lymphatic Drainage (MLD) and compression are clinically proven to redirect fluid and reduce pain.
 
 **Recommended Support:**
-[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-3-4-sleeve-top) - Built-in arm compression.
+[Iconic 3/4 Sleeve Top](https://www.elastiqueathletics.com/products/iconic-top) - Built-in arm compression.
 [L'Original Leggings](https://www.elastiqueathletics.com/products/loriginal-leggings) - For leg support.
 
 ---
